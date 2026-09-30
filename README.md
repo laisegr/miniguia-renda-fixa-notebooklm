@@ -33,9 +33,9 @@ Para a construção do caderno temático no NotebookLM, foram selecionadas fonte
    Conteúdo utilizado para compreender o conceito de renda fixa e as diferenças entre remuneração prefixada, pós-fixada e híbrida.  
    https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos/renda-fixa-x-renda-variavel
 
-3. **Tesouro Direto — Nossos Produtos**  
+3. **Portal do Investidor — Títulos Públicos**  
    Fonte utilizada para conhecer as características dos principais títulos públicos disponíveis, como Tesouro Selic, Tesouro Prefixado e Tesouro IPCA+.  
-   https://www.tesourodireto.com.br/produtos/nossos-produtos
+   https://www.gov.br/investidor/pt-br/investir/tipos-de-investimentos/titulos-publicos
 
 4. **Portal do Investidor — Risco e a relação risco x retorno**  
    Material utilizado para estudar risco de crédito, risco de mercado, risco de liquidez e a relação entre risco e retorno nos investimentos.  
