@@ -114,3 +114,59 @@ A limitação de tamanho e a instrução para evitar repetições reduziram o ex
 **Aprendizado:**
 
 Definir não apenas o conteúdo desejado, mas também o tamanho, a finalidade e o formato da resposta ajuda a adaptar o uso da IA a diferentes momentos do aprendizado. Um mesmo tema pode exigir uma resposta aprofundada para estudo inicial e uma versão mais curta para revisão.
+
+## 📖 Miniguia de Estudo
+
+### 1. O que é Renda Fixa
+
+A **renda fixa** é uma classe de investimentos que paga, em períodos definidos, uma remuneração correspondente a uma determinada taxa de juros. Ao aplicar em renda fixa, o investidor assume o papel de **credor**, emprestando seu dinheiro para uma instituição **devedora** — como o Governo Federal, bancos ou empresas de capital aberto.
+
+Em troca desse empréstimo, a instituição emissora assume o compromisso de devolver a quantia aplicada (o principal) acrescida de juros no vencimento do título. Todas as regras de remuneração, prazos, formas de cálculo e índices envolvidos são combinados e acertados no momento da aplicação.
+
+### 2. Como funciona a rentabilidade
+
+A forma de cálculo dos rendimentos em renda fixa pode ser dividida em três modalidades:
+
+- **Prefixada:** a taxa de juros é totalmente fixada no momento da aplicação. Com isso, o investidor já sabe exatamente o valor nominal que irá receber na data do vencimento.
+- **Pós-fixada:** a rentabilidade final depende da variação de um indicador econômico ou taxa de referência apurada ao longo do período do investimento, como a **Taxa Selic** e a **Taxa DI/CDI**.
+- **Híbrida:** combina uma taxa de juros prefixada com a variação de um índice oficial de inflação, como o **IPCA**.
+
+### 3. Principais tipos de títulos
+
+- **Títulos Públicos (Tesouro Direto):** emitidos pelo Governo Federal. Entre os exemplos apresentados nas fontes estão Tesouro Selic, Tesouro Reserva, Tesouro Prefixado, Tesouro IPCA+, Tesouro RendA+ e Tesouro Educa+.
+- **Títulos Privados Bancários:** emitidos por instituições financeiras, como Caderneta de Poupança, CDBs, RDBs, RDCs, LCIs e LCAs.
+- **Títulos Privados de Empresas e Securitizadoras:** incluem Debêntures, CRIs e CRAs.
+- **Outras estruturas:** fundos de investimento em renda fixa e ETFs de renda fixa.
+
+### 4. Principais riscos
+
+- **Risco de Crédito:** possibilidade de a instituição emissora não cumprir suas obrigações de pagamento dos juros ou do principal. Aplicações bancárias específicas podem contar com proteção do FGC ou FGCoop, conforme os limites regulamentados.
+- **Risco de Mercado:** alterações nas condições econômicas e nas taxas de juros podem provocar oscilações nos preços dos títulos antes do vencimento, fenômeno relacionado à marcação a mercado.
+- **Risco de Liquidez:** dificuldade de converter o investimento em dinheiro disponível a um valor justo no momento desejado.
+- **Riscos Legal e Operacional:** relacionados, respectivamente, a problemas jurídicos no título ou contrato e a falhas humanas, tecnológicas ou de gestão.
+
+### 5. Pontos essenciais para revisão
+
+1. Investir em renda fixa equivale a emprestar dinheiro a uma instituição em troca de juros.
+2. A rentabilidade pode ser prefixada, pós-fixada ou híbrida.
+3. Existem títulos emitidos pelo Governo Federal, instituições financeiras e empresas.
+4. Renda fixa não significa ausência de riscos: crédito, mercado e liquidez devem ser considerados.
+5. A venda de um título antes do vencimento pode sofrer os efeitos da marcação a mercado.
+
+## 📚 Glossário dos principais conceitos
+
+- **Renda Fixa:** modalidade de investimento em que as condições de remuneração, prazos e regras de rentabilidade são pactuadas no momento da aplicação.
+- **Credor e Devedor:** o investidor atua como credor ao emprestar os recursos, enquanto a instituição emissora é a devedora.
+- **Prefixado:** título cuja taxa de juros é determinada no momento da compra.
+- **Pós-fixado:** investimento cuja rentabilidade depende da variação de um indicador econômico de referência.
+- **Híbrido:** título que combina uma taxa fixa com a variação de um índice de inflação.
+- **Taxa Selic:** taxa básica de juros da economia e referência utilizada em títulos pós-fixados.
+- **Taxa DI/CDI:** referência utilizada em diversos títulos bancários pós-fixados.
+- **IPCA:** índice de inflação utilizado como referência em investimentos híbridos.
+- **Títulos Públicos:** títulos emitidos pelo Governo Federal e disponibilizados aos investidores por meio do Tesouro Direto.
+- **Títulos Privados Bancários:** títulos emitidos por instituições financeiras, como CDBs, LCIs e LCAs.
+- **Debêntures, CRIs e CRAs:** exemplos de títulos privados emitidos por empresas ou companhias securitizadoras.
+- **Risco de Crédito:** possibilidade de o emissor não cumprir suas obrigações financeiras.
+- **FGC:** mecanismo de proteção aplicável a determinadas aplicações bancárias, observados seus limites regulamentados.
+- **Marcação a Mercado:** variação do preço de negociação de um título antes do vencimento.
+- **Risco de Liquidez:** facilidade ou dificuldade de transformar o investimento em dinheiro a um valor justo.
