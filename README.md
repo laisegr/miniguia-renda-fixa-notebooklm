@@ -86,3 +86,31 @@ O aumento do nível de detalhamento do prompt melhorou a organização e a preci
 **Aprendizado:**
 
 Instruções sobre fonte, público-alvo, estrutura, linguagem e formato de saída tornam o resultado mais consistente. Ao mesmo tempo, prompts muito abrangentes podem produzir respostas maiores do que o necessário.
+
+
+### Teste 3 — Refinamento para revisão rápida
+
+**Prompt utilizado:**
+
+> Com base exclusivamente nas fontes deste notebook, crie um resumo de revisão sobre renda fixa para um iniciante.
+>
+> Limite a resposta a no máximo 400 palavras e organize em:
+> - conceito;
+> - prefixado, pós-fixado e híbrido;
+> - principais títulos;
+> - riscos;
+> - 5 palavras-chave para memorizar.
+>
+> Priorize apenas as informações essenciais para uma revisão rápida, sem repetir conceitos e sem acrescentar informações externas às fontes.
+
+**Resultado observado:**
+
+O NotebookLM produziu uma resposta mais concisa, mantendo os principais conceitos identificados nas fontes. O conteúdo permaneceu dividido por assunto e terminou com cinco palavras-chave para memorização, tornando o material mais adequado para uma revisão rápida.
+
+**Melhoria em relação ao teste anterior:**
+
+A limitação de tamanho e a instrução para evitar repetições reduziram o excesso de detalhamento observado no segundo teste, sem eliminar os conceitos essenciais para o objetivo de estudo.
+
+**Aprendizado:**
+
+Definir não apenas o conteúdo desejado, mas também o tamanho, a finalidade e o formato da resposta ajuda a adaptar o uso da IA a diferentes momentos do aprendizado. Um mesmo tema pode exigir uma resposta aprofundada para estudo inicial e uma versão mais curta para revisão.
