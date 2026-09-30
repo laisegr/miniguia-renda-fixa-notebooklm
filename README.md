@@ -170,3 +170,38 @@ A forma de cálculo dos rendimentos em renda fixa pode ser dividida em três mod
 - **FGC:** mecanismo de proteção aplicável a determinadas aplicações bancárias, observados seus limites regulamentados.
 - **Marcação a Mercado:** variação do preço de negociação de um título antes do vencimento.
 - **Risco de Liquidez:** facilidade ou dificuldade de transformar o investimento em dinheiro a um valor justo.
+
+
+## 🔁 Prompts reutilizáveis para futuras revisões
+
+Os prompts abaixo podem ser adaptados para revisar renda fixa ou outros temas a partir de fontes selecionadas no NotebookLM.
+
+### Resumo para revisão rápida
+
+> Com base exclusivamente nas fontes deste notebook, crie um resumo de revisão sobre [tema]. Priorize os conceitos essenciais, utilize linguagem clara e evite repetições. Não acrescente informações externas às fontes.
+
+### Comparação entre conceitos
+
+> Com base exclusivamente nas fontes deste notebook, compare [conceito A] e [conceito B]. Organize a resposta considerando definição, funcionamento, principais diferenças e pontos importantes para revisão.
+
+### Glossário
+
+> Com base exclusivamente nas fontes deste notebook, crie um glossário com os principais conceitos relacionados a [tema]. Apresente cada termo seguido de uma definição curta e didática.
+
+### Revisão por perguntas
+
+> Com base exclusivamente nas fontes deste notebook, elabore 10 perguntas de revisão sobre [tema], variando entre questões conceituais e situações práticas. Apresente o gabarito apenas ao final.
+
+### Identificação de pontos essenciais
+
+> Analise exclusivamente as fontes deste notebook e selecione os 10 pontos mais importantes sobre [tema] que um iniciante deveria memorizar. Explique cada ponto de forma breve e objetiva.
+
+## ✅ Conclusão
+
+O desenvolvimento deste projeto permitiu experimentar o NotebookLM como ferramenta de aprendizagem ativa, utilizando fontes selecionadas previamente como base para estudo.
+
+Os testes mostraram que a qualidade da resposta não depende apenas do tema perguntado, mas também da forma como o prompt define objetivo, estrutura, nível de detalhamento e limites da resposta.
+
+A evolução entre os prompts demonstrou que instruções mais específicas permitem transformar um mesmo conjunto de fontes em materiais destinados a diferentes momentos do aprendizado, como estudo inicial, aprofundamento e revisão rápida.
+
+Como resultado, foi produzido um miniguia introdutório sobre renda fixa, acompanhado de glossário e prompts reutilizáveis para futuras revisões.
