@@ -40,3 +40,49 @@ Para a construção do caderno temático no NotebookLM, foram selecionadas fonte
 4. **Portal do Investidor — Risco e a relação risco x retorno**  
    Material utilizado para estudar risco de crédito, risco de mercado, risco de liquidez e a relação entre risco e retorno nos investimentos.  
    https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos/risco-e-a-relacao-risco-x-retorno
+
+
+## 🧠 Engenharia de prompts e aprendizados
+
+Durante o uso do NotebookLM, foram testadas diferentes formas de formular as perguntas para observar como pequenas alterações nas instruções poderiam modificar a organização e a profundidade das respostas.
+
+### Teste 1 — Prompt aberto
+
+**Prompt utilizado:**
+
+> Explique renda fixa para uma pessoa que nunca investiu.
+
+**Resultado observado:**
+
+O NotebookLM apresentou uma explicação clara e didática, abordando o conceito de renda fixa, formas de remuneração, principais títulos e riscos. Apesar da boa qualidade da resposta, a seleção dos conteúdos e a estrutura ficaram totalmente a cargo da IA.
+
+**Aprendizado:**
+
+O teste mostrou que um prompt simples pode produzir uma resposta satisfatória, mas oferece pouco controle sobre a organização, a profundidade e o formato do material.
+
+### Teste 2 — Prompt estruturado
+
+**Prompt utilizado:**
+
+> Com base exclusivamente nas fontes deste notebook, explique renda fixa para uma pessoa que nunca investiu.
+>
+> Organize a resposta em:
+> 1. conceito de renda fixa;
+> 2. diferença entre investimentos prefixados, pós-fixados e híbridos;
+> 3. principais tipos de títulos mencionados nas fontes;
+> 4. riscos envolvidos;
+> 5. resumo final com os cinco pontos mais importantes para revisão.
+>
+> Use linguagem simples e didática, mas preserve os termos técnicos essenciais. Não inclua informações que não estejam presentes nas fontes e mantenha as referências utilizadas.
+
+**Resultado observado:**
+
+A resposta passou a seguir uma estrutura previsível e alinhada aos objetivos do estudo. O conteúdo foi dividido nos cinco tópicos solicitados e terminou com uma síntese voltada à revisão.
+
+**Cicatriz / dificuldade encontrada:**
+
+O aumento do nível de detalhamento do prompt melhorou a organização e a precisão da resposta, mas também gerou um conteúdo mais extenso. Isso mostrou a necessidade de equilibrar profundidade e concisão de acordo com a finalidade do material.
+
+**Aprendizado:**
+
+Instruções sobre fonte, público-alvo, estrutura, linguagem e formato de saída tornam o resultado mais consistente. Ao mesmo tempo, prompts muito abrangentes podem produzir respostas maiores do que o necessário.
