@@ -115,6 +115,18 @@ A limitação de tamanho e a instrução para evitar repetições reduziram o ex
 
 Definir não apenas o conteúdo desejado, mas também o tamanho, a finalidade e o formato da resposta ajuda a adaptar o uso da IA a diferentes momentos do aprendizado. Um mesmo tema pode exigir uma resposta aprofundada para estudo inicial e uma versão mais curta para revisão.
 
+### Evidências dos testes
+
+As respostas obtidas nos testes foram geradas pelo NotebookLM a partir das quatro fontes apresentadas na seção de curadoria.
+
+Ao longo dos testes, foram observadas três formas diferentes de resposta:
+
+- **Teste 1:** resposta ampla e didática, com organização definida pela própria IA;
+- **Teste 2:** resposta estruturada conforme os tópicos solicitados, com maior nível de detalhamento;
+- **Teste 3:** resposta mais concisa e direcionada à revisão rápida, preservando os conceitos essenciais.
+
+As referências apresentadas pelo NotebookLM em cada resposta remetem às fontes adicionadas ao caderno temático e listadas neste repositório.
+
 ## 📖 Miniguia de Estudo
 
 ### 1. O que é Renda Fixa
